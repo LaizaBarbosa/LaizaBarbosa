@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1>Laiza Barbosa</h1>
 
-<!--
-**LaizaBarbosa/LaizaBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Olá comunidade!</h2>
 
-Here are some ideas to get you started:
+<p>👩‍💻Tenho 19 anos e atualmente estudo Desenvolvimento de Sistemas no Senai Suiço-Brasileiro.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Aprendendo</h2>
+<div>
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+<h2>Mais tecnologias</h2>
+<div>
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
+
+![Snake animation](https://github.com/LaizaBarbosa/LaizaBarbosa/blob/output/github-contribution-grid-snake.svg)
+                    
