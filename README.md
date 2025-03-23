@@ -4,7 +4,8 @@
 
 ---
 
-<p>👩‍💻Olá comunidade! Tenho 19 anos e atualmente estudo Desenvolvimento de Sistemas no Senai Suiço-Brasileiro.</p>
+👩‍💻Olá comunidade! 
+Tenho 20 anos e atualmente trabalho como aprendiz na Claro com suporte de TI. Formada em técnico em desenvolvimento de sistemas e estou cursando Técnologo em ADS.
 
 <div align="center">
 <a href="https://github.com/LaizaBarbosa">
